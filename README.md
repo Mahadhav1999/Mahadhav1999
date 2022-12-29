@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, Developers 👋</h1>
-<h3 align = "center">FULL STACK WEB DEVELPOMENT INTERN OFFERED BY EDUREKA!</h3>
+<h3 align = "center">FULL STACK WEB DEVELPOMENT INTERN  @EDUREKA!</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mahadhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahadhav-dhobale/)](https://www.linkedin.com/in/mahadhav-dhobale/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mahadhav-yellow)](https://stackoverflow.com/users/16685664/mahadhav-)
