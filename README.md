@@ -133,9 +133,20 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 <a href="https://dev.to/mahadhav_dev"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
 </p>
 
-**📧 Email:** mahadhav.dev@gmail.com | **🌍 Location:** Available globally | **⚡ Specialization:** Cloud Infrastructure, CI/CD, Automation
+**📧 Email:** mahadhavdhobale@gmail.com | **🌍 Location:** Available globally | **⚡ Specialization:** Cloud Infrastructure, CI/CD, Automation
 
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/Mahadhav1999/count.svg)
+
+<div>
+<h4>🏆 Github Profile Trophy</h4>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Mahadhav1999&column=7"/>
+</a>
+</div>
+
+![](https://activity-graph.herokuapp.com/graph?username=Mahadhav1999&theme=react-dark&area=true)
 
 <div align="center">
 
