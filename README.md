@@ -91,22 +91,6 @@ I'm a passionate **DevOps Ebgineer** with a strong focus on building efficient, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahadhav1999&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-**Let's connect and build something amazing together!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadhav-developer)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahadhav_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahadhav-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadhav.dev@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahadhav-dev)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
-
-</div>
-
-
 ### 📬 Get In Touch
 - **Email:** mahadhav.dev@gmail.com
 - **Location:** Available for remote work globally 🌍
