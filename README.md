@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" alt="Lives" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -36,14 +35,12 @@ I'm a passionate **DevOps Engineer** focused on building efficient, scalable, an
 - 📫 How to reach me: [**mahadhavdhobale@gmail.com**](mailto:mahadhavdhobale@gmail.com)
 - ⚡ Fun fact: **I automate everything, even my coffee machine!** ☕️
 
----
 
 ## 👨‍💻 Highlight Projects
 
 - [AutoCloud Deploy](https://github.com/Mahadhav1999/autocloud-deploy): Infrastructure as Code for multi-cloud environments using Terraform and Ansible.
 - [Kube-Monitor](https://github.com/Mahadhav1999/kube-monitor): Kubernetes cluster monitoring dashboard with Prometheus and Grafana.
 
----
 
 <details>
   <summary>🛠️ Tech Stack & Skills (Click to expand)</summary>
@@ -88,7 +85,6 @@ I'm a passionate **DevOps Engineer** focused on building efficient, scalable, an
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 </details>
 
----
 
 ## 📈 Contribution Graph & Trophies
 
@@ -98,8 +94,6 @@ I'm a passionate **DevOps Engineer** focused on building efficient, scalable, an
     <img src="https://github-profile-trophy.vercel.app/?username=Mahadhav1999&column=7"/>
   </a>
 </div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -119,7 +113,7 @@ I'm a passionate **DevOps Engineer** focused on building efficient, scalable, an
 
 </div>
 
----
+
 
 ## 💡 DevOps Philosophy
 
@@ -127,7 +121,6 @@ I'm a passionate **DevOps Engineer** focused on building efficient, scalable, an
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20is%20the%20foundation%20of%20innovation.%20Automate%20everything,%20monitor%20constantly,%20and%20never%20stop%20improving.&author=DevOps%20Mindset" alt="DevOps Quote"/>
 </div>
 
----
 
 ## 🎉 Thanks for visiting!
 
