@@ -119,43 +119,6 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 
 ---
 
-## 🎯 Current Focus & Learning
-
-<div align="center">
-
-```yaml
-Currently Exploring:
-  Advanced_Kubernetes: "Service Mesh, Operators, Custom Resources"
-  Multi_Cloud_Architecture: "AWS + GCP + Azure Integration"
-  DevSecOps: "Security Automation in CI/CD"
-  Infrastructure_Monitoring: "Advanced Observability Patterns"
-  GitOps: "ArgoCD, Flux, Declarative Infrastructure"
-
-Recent_Achievements:
-  - ✅ AWS Certified Cloud Practitioner
-  - ✅ Docker & Kubernetes Mastery
-  - ✅ Linux System Administration Expert
-  - ✅ CI/CD Pipeline Design Specialist
-```
-
-</div>
-
----
-
-## 🏆 DevOps Journey & Projects
-
-<div align="center">
-
-| 🏗️ **Infrastructure as Code** | 🚀 **CI/CD Automation** | 📊 **Monitoring & Optimization** |
-|:---:|:---:|:---:|
-| Automated cloud provisioning with **Terraform** | Built end-to-end **Jenkins** pipelines | Comprehensive monitoring with **Prometheus & Grafana** |
-| Containerized microservices with **Docker & K8s** | **GitHub Actions** & **GitLab CI** workflows | Centralized logging with **ELK Stack** |
-| Implemented **GitOps** workflows | Integrated security scanning & quality checks | Cloud cost optimization through automation |
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
