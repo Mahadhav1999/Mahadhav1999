@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" alt="Lives" />
 </p>
 
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -36,7 +34,6 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 - 📫 How to reach me: [**mahadhav.dev@gmail.com**](mailto:mahadhav.dev@gmail.com)
 - ⚡ Fun fact: **I automate everything, even my coffee machine!** ☕
 
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -77,7 +74,6 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 **⚡ Scripting & Programming**
 <p>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
@@ -112,15 +108,11 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 </table>
 </div>
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahadhav1999&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -145,23 +137,18 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 
 </div>
 
----
-
 <div align="center">
 
 ## 💡 DevOps Philosophy
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20is%20the%20foundation%20of%20innovation.%20Automate%20everything,%20monitor%20constantly,%20and%20never%20stop%20improving.&author=DevOps%20Mindset" alt="DevOps Quote"/>
 
----
 
 ## 🎉 Thanks for visiting! 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 **Let's automate the world, one pipeline at a time!** 🔧✨
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
