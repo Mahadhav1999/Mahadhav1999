@@ -46,7 +46,7 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 <p>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
