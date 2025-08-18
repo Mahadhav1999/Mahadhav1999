@@ -70,44 +70,6 @@ I'm a passionate **DevOps Ebgineer** with a strong focus on building efficient, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahadhav1999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 Featured Projects
-
-### 🛒 [E-Commerce Web App](https://github.com/Mahadhav1999/ecommerce-react-app)
-**Tech Stack:** React, Redux, Node.js, MongoDB, Stripe API
-- Full-stack e-commerce platform with user authentication and payment integration
-- Features: Product catalog, shopping cart, order management, admin dashboard
-- **Live Demo:** [View Project](https://your-ecommerce-demo.netlify.app)
-- **Key Features:** Responsive design, real-time inventory, secure payments
-
-### 📱 [Task Management Dashboard](https://github.com/Mahadhav1999/task-management-app)
-**Tech Stack:** React, TypeScript, Firebase, Material-UI
-- Collaborative task management tool with real-time updates
-- Features: Drag & drop interface, team collaboration, progress tracking
-- **Live Demo:** [View Project](https://your-task-app.vercel.app)
-- **Key Features:** Real-time sync, responsive design, team workspaces
-
-### 🌤️ [Weather Forecast App](https://github.com/Mahadhav1999/weather-react-app)
-**Tech Stack:** React, OpenWeather API, Chart.js, Tailwind CSS
-- Modern weather application with 7-day forecasts and interactive charts
-- Features: Location-based weather, detailed forecasts, weather maps
-- **Live Demo:** [View Project](https://your-weather-app.netlify.app)
-- **Key Features:** Geolocation support, beautiful UI, detailed analytics
-
-### 🍔 [Restaurant Website](https://github.com/Mahadhav1999/restaurant-website)
-**Tech Stack:** React, Next.js, Sanity CMS, Stripe
-- Modern restaurant website with online ordering system
-- Features: Menu management, online reservations, order tracking
-- **Live Demo:** [View Project](https://your-restaurant-site.vercel.app)
-- **Key Features:** CMS integration, online ordering, mobile-first design
-
-## 🌟 What I'm Currently Working On
-
-- 🔨 Building a **SaaS Project Management Tool** using React, TypeScript, and Prisma
-- 📚 Mastering **React 18 features** (Suspense, Concurrent Rendering, Server Components)
-- 🎯 Contributing to **open source React libraries** and helping the community
-- 📝 Writing technical blogs about **React Performance Optimization** on Medium
-- 🚀 Learning **Microservices Architecture** and **Docker** for scalable applications
-- 💼 Working on my **Personal Portfolio v2.0** with 3D animations using Three.js
 
 ## 📚 Learning Journey
 
@@ -144,11 +106,6 @@ I'm a passionate **DevOps Ebgineer** with a strong focus on building efficient, 
 
 </div>
 
-### 💼 Open to Opportunities
-- 🎯 **Frontend Developer Roles** - React, Next.js, TypeScript
-- 🤝 **Freelance Projects** - Web application development
-- 👥 **Open Source Collaborations** - React ecosystem projects
-- 📝 **Technical Writing** - React tutorials and best practices
 
 ### 📬 Get In Touch
 - **Email:** mahadhav.dev@gmail.com
@@ -163,14 +120,6 @@ I'm a passionate **DevOps Ebgineer** with a strong focus on building efficient, 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 ---
-
-## 🎯 2024 Goals
-- [ ] **Contribute to 5 major open source projects**
-- [ ] **Launch 2 SaaS applications**
-- [ ] **Write 50+ technical articles**
-- [ ] **Master TypeScript and Next.js 14**
-- [ ] **Build a strong developer community**
-- [x] **Create an awesome GitHub profile** ✅
 
 ---
 
