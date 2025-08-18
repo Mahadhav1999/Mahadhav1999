@@ -44,7 +44,7 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 
 **☁️ Cloud Platforms & Infrastructure**
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
