@@ -1,4 +1,4 @@
-# Hi there, I'm Mahadhav! 👋
+# Hi there, I'm Mahadev! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+Expert;Infrastructure+as+Code;Building+Scalable+Systems" alt="Typing SVG" />
