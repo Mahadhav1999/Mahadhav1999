@@ -1,7 +1,7 @@
 # Hi there, I'm Mahadhav! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=React+JS+Developer;Frontend+Enthusiast;Problem+Solver;Always+Learning+New+Tech;Building+Amazing+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring DevOps Engineer+;Frontend+Enthusiast;Problem+Solver;Always+Learning+New+Tech;Building+Amazing+Automations" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **DevOps Ebgineer** with a strong focus on building efficient, scalable, and user-friendly web applications. I transform complex problems into elegant solutions and have experience working with modern web technologies. Currently seeking opportunities to contribute to innovative projects while continuously expanding my technical expertise in the ever-evolving world of frontend development.
+I'm a passionate **DevOps Engineer** with a strong focus on building efficient, scalable, and user-friendly web applications. I transform complex problems into elegant solutions and have experience working with modern web technologies. Currently seeking opportunities to contribute to innovative projects while continuously expanding my technical expertise in the ever-evolving world of frontend development.
 
 - 🌱 I'm currently learning **DevOps**
 - 📫 How to reach me: **** | **[LinkedIn Profile](https://linkedin.com/in/mahadhav-developer)**
