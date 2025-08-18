@@ -113,9 +113,7 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 </p>
 
 <p>
-<a href="https://medium.com/@mahadhav-dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://stackoverflow.com/users/your-id"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
-<a href="https://dev.to/mahadhav_dev"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
 </p>
 
 **📧 Email:** mahadhavdhobale@gmail.com | **🌍 Location:** Available globally | **⚡ Specialization:** Cloud Infrastructure, CI/CD, Automation
