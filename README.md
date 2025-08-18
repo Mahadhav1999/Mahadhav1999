@@ -96,7 +96,7 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+##<div align="center">
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Mahadhav1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
@@ -106,7 +106,7 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
     <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadhav1999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
   </tr>
 </table>
-</div>
+</div>##
 
 ## 📈 Contribution Graph
 
