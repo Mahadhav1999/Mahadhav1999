@@ -1,7 +1,7 @@
 # Hi there, I'm Mahadev! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+Expert;Infrastructure+as+Code;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Cloud+Enthusiast;Automation+Explorer;Infrastructure+as+Code;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -44,9 +44,9 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 
 **☁️ Cloud Platforms & Infrastructure**
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
