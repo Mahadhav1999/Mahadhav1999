@@ -31,7 +31,7 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 - 🌱 I'm currently learning **Kubernetes & Terraform**
 - 🔭 Working on **CI/CD Automation & Cloud Infrastructure**  
 - 💬 Ask me about **Docker, Jenkins, AWS, GCP**
-- 📫 How to reach me: [**mahadhav.dev@gmail.com**](mailto:mahadhav.dev@gmail.com)
+- 📫 How to reach me: [**mahadhavdhobale@gmail.com**](mailto:mahadhavdhobale@gmail.com)
 - ⚡ Fun fact: **I automate everything, even my coffee machine!** ☕
 
 
@@ -91,21 +91,7 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
-
 </div>
-
-[## 📊 GitHub Analytics
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Mahadhav1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahadhav1999&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadhav1999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
-  </tr>
-</table>
-</div>](url)
 
 ## 📈 Contribution Graph
 
@@ -136,7 +122,6 @@ I'm a passionate **DevOps Engineer** with a strong focus on building efficient, 
 
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/Mahadhav1999/count.svg)
 
 <div>
 <h4>🏆 Github Profile Trophy</h4>
